@@ -22,6 +22,5 @@ int main()
 }
 void calculatePow2(int input_1)
 {
-	int ans; -
-		printf("%.0f", pow(input_1, 2));
+	printf("%.0f", pow(input_1, 2));
 }
